@@ -11,16 +11,10 @@ https://ljsimpkin.github.io/Chorely
       "private": true,
     ```
 
+
     ```shell
     $ npm run deploy
     ```
-```diff
-{
-  "name": "my-app",
-  "version": "0.1.0",
-+ "homepage": "https://gitname.github.io/react-gh-pages",
-  "private": true,
-```
 
 # Built with 
 https://github.com/gitname/react-gh-pages
