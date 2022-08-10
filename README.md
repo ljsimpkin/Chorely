@@ -1,5 +1,21 @@
 # Visit deployed app here
-https://ljsimpkin.github.io/react-gh-pages-boilerplate
+https://ljsimpkin.github.io/Chorely
+
+# To deploy
+
+    ```diff
+    {
+      "name": "my-app",
+      "version": "0.1.0",
+    + "homepage": "https://gitname.github.io/react-gh-pages",
+      "private": true,
+    ```
+
+`npm run deploy`
+
+    ```shell
+    $ npm run deploy
+    ```
 
 # Built with 
 https://github.com/gitname/react-gh-pages
