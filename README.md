@@ -3,15 +3,22 @@ https://ljsimpkin.github.io/Chorely
 
 # To deploy
 
-    `
+    ```diff
     {
-      "name": "my-app",
-      "version": "0.1.0",
+    "name": "my-app",
+    "version": "0.1.0",
     + "homepage": "https://gitname.github.io/react-gh-pages",
-      "private": true,
-    `
+    "private": true,
+    ```
+
+```{
+  "name": "my-app",
+  "version": "0.1.0",
++ "homepage": "https://gitname.github.io/react-gh-pages",
+  "private": true,
+```
     
-    `npm run deploy`
+`npm run deploy`
 
 # Built with 
 https://github.com/gitname/react-gh-pages
