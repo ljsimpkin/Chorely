@@ -11,11 +11,6 @@ https://ljsimpkin.github.io/Chorely
       "private": true,
     ```
 
-
-    ```shell
-    $ npm run deploy
-    ```
-
 # Built with 
 https://github.com/gitname/react-gh-pages
 
