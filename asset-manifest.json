@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chorely/static/css/main.000d2dde.css",
+    "main.js": "/Chorely/static/js/main.342566ef.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Chorely/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Chorely/index.html",
+    "main.000d2dde.css.map": "/Chorely/static/css/main.000d2dde.css.map",
+    "main.342566ef.js.map": "/Chorely/static/js/main.342566ef.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Chorely/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.000d2dde.css",
+    "static/js/main.342566ef.js"
+  ]
+}
